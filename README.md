@@ -5,6 +5,10 @@ You can see it in action at https://poetaster.org/eurorack/frame/ with audio and
 
 I initially became aware of this version of the circuit through NLC https://www.nonlinearcircuits.com/modules/p/tinkle?itemId=tinkle I use some aspects of NLC's (resistance values) but don't use op amps and adjust the imput impedence a bit. 
 
+The bcp view shown here I've crossed out the transistor section (red lines) since I usually skip it and connect a 470N (1uf works, too) cap where the green line is seen.
+
 ![frame pcb](frame_pcb.jpg)
 ![schematic](frame_schem.jpg)
 ![breadboard ](frame_bb.jpg)
+
+
