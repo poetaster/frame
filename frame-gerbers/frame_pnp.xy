@@ -1,0 +1,91 @@
+# Pick And Place List
+# eMail=
+#
+# Project=frame
+# Date=19:55:40
+# CreatedBy=Fritzing 1.0.6.2025-10-07.1.0.5rc1-97-g04e5bb02
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB. Rotation in degree (0-360, math. pos.)
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+U1,";;;;;;;;","DIP (Dual Inline) [THT]",809.82,918.027,180,Bottom,THT
+J3,";;;;;;;;","THT",566.376,4144.75,90,Bottom,THT
+Via2,";;;;;;;;","",883.738,1140.01,0,Top,MANUAL
+Via3,";;;;;;;;","",959.294,1308.9,0,Top,MANUAL
+][4,";;;;;;;;","",304.556,2320.49,-90,Top,MANUAL
+][3,";;;;;;;;","",304.556,2792.93,-90,Top,MANUAL
+Mix,";;;;;;;;","",1286.37,2202.18,90,Top,MANUAL
+][2,";;;;;;;;","",304.556,3245.69,-90,Top,MANUAL
+OUT4,";;;;;;;;","",1266.68,2595.88,90,Top,MANUAL
+][1,";;;;;;;;","",304.556,3698.45,-90,Top,MANUAL
+Out3,";;;;;;;;","",1266.68,2969.9,90,Top,MANUAL
+OUT2,";;;;;;;;","",1266.68,3343.92,90,Top,MANUAL
+Out1,";;;;;;;;","",1266.68,3717.93,90,Top,MANUAL
+5||13,";;;;;;;;","switch-spdt_kit",358.161,115.668,-90,Top,SMT
+5||14,";;;;;;;;","switch-spdt_kit",211.791,973.234,180,Top,SMT
+5||16,";;;;;;;;","switch-spdt_kit",1243.98,115.668,-90,Top,SMT
+BAT46,";;;;;;;;","diode-1n4148",56.6911,1674.88,90,Top,SMT
+5||15,";;;;;;;;","switch-spdt_kit",1353.53,962.124,180,Top,SMT
+BAT46,";;;;;;;;","diode-1n4148",239.946,2559.05,0,Top,SMT
+BAT46,";;;;;;;;","diode-1n4148",781.053,2668.72,0,Top,SMT
+BAT46,";;;;;;;;","diode-1n4148",868.612,2747.72,0,Top,SMT
+BAT46,";;;;;;;;","diode-1n4148",492.876,3476.6,0,Top,SMT
+BAT46,";;;;;;;;","diode-1n4148",488.519,3921.48,0,Top,SMT
+4001,";;;;;;;;","diode-1n4148",1008.25,3934.56,0,Top,SMT
+10nF,";10nF;;16V;;;;;","200 mil [THT, multilayer]",73.9956,173.149,-90,Top,THT
+4.7n,";4.7nF;;16V;;;;;","200 mil [THT, multilayer]",292.107,351.882,0,Top,THT
+4.7n,";4.7nF;;16V;;;;;","200 mil [THT, multilayer]",407.067,253.46,180,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",199.587,469.993,180,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",199.587,596.682,180,Top,THT
+4.7n,";4.7nF;;16V;;;;;","200 mil [THT, multilayer]",644.864,162.038,90,Top,THT
+4.7n,";4.7nF;;16V;;;;;","200 mil [THT, multilayer]",173.996,695.104,-6.36109e-15,Top,THT
+1M,"1M;;;;;0.25W;;;","THT",741.709,204.071,-90,Top,THT
+2.2n,";2.2nF;;16V;;;;;","200 mil [THT, multilayer]",73.9956,901.493,-90,Top,THT
+10K,"10k;;;;;0.25W;;;","THT",448.012,595.582,90,Top,THT
+1M,"1M;;;;;0.25W;;;","THT",854.398,208.516,-90,Top,THT
+100nF,";100nF;;16V;;;;;","200 mil [THT, multilayer]",940.142,153.46,-90,Top,THT
+10K,"10k;;;;;0.25W;;;","THT",526.752,639.682,-90,Top,THT
+1M,"1M;;;;;0.25W;;;","THT",790.142,430.627,180,Top,THT
+1M,"1M;;;;;0.25W;;;","THT",809.82,529.049,180,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",136.181,1277.47,0,Top,THT
+2.2n,";2.2nF;;16V;;;;;","200 mil [THT, multilayer]",349.587,1077.35,-90,Top,THT
+10K,"10k;;;;;0.25W;;;","THT",1086.51,423.149,90,Top,THT
+33nF,";22nF;;16V;;;;;","200 mil [THT, multilayer]",1315.73,292.827,0,Top,THT
+2.2n,";2.2nF;;16V;;;;;","200 mil [THT, multilayer]",467.697,1154.52,-90,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",218.921,1407.56,0,Top,THT
+103,";10nF;;16V;;;;;","200 mil [THT, multilayer]",827.764,860.916,-90,Top,THT
+33nF,";22nF;;16V;;;;;","200 mil [THT, multilayer]",1522.12,176.293,90,Top,THT
+220k,"220k;;;;;0.25W;;;","THT",145.341,1645.17,90,Top,THT
+33nF,";22nF;;16V;;;;;","200 mil [THT, multilayer]",1411.01,391.26,-6.36109e-15,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",1317.79,489.682,0,Top,THT
+10K,"10k;;;;;0.25W;;;","THT",1077.93,831.804,90,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",1361.01,588.104,0,Top,THT
+10K,"10k;;;;;0.25W;;;","THT",292.29,1671.39,-90,Top,THT
+100nF,";100nF;;35V;;;;;","5mm [THT, pp]",561.048,1445.03,90,Top,THT
+22nF,";22nF;;16V;;;;;","200 mil [THT, multilayer]",1351.95,686.527,0,Top,THT
+4.7n,";4.7nF;;16V;;;;;","200 mil [THT, multilayer]",95.0811,1999.15,90,Top,THT
+10nF,";2.2nF;;16V;;;;;","200 mil [THT, multilayer]",1196.04,1019.6,90,Top,THT
+10nF,";10nF;;16V;;;;;","200 mil [THT, multilayer]",1077.93,1236.14,90,Top,THT
+J4,";;;;;;;;","THT",441.554,1924.44,0,Top,THT
+10nF,";10nF;;16V;;;;;","200 mil [THT, multilayer]",1511.01,884.96,-90,Top,THT
+100nF,";100nF;;35V;;;;;","5mm [THT, pp]",881.081,1520.28,90,Top,THT
+100nF,";100nF;;35V;;;;;","5mm [THT, pp]",636.292,1819.05,90,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",487.863,2058.26,180,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",1346.04,1229.14,0,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",1346.04,1316.45,0,Top,THT
+4.7K,"4.7k;;;;;0.25W;;;","THT",1144.92,1550.42,-90,Top,THT
+470nF,";100nF;;35V;;;;;","5mm [THT, pp]",1385.21,1470.17,180,Top,THT
+47K,"47k;;;;;0.25W;;;","THT",1371.38,1618.43,180,Top,THT
+10K,"10k;;;;;0.25W;;;","THT",1123.09,1884.17,0,Top,THT
+2N3904,";;;;;;;;","TO92 [THT]",1402.23,1746.32,0,Top,THT
+Att,";;;;;0.5W;;;","THT",823.227,2352.86,-90,Top,THT
+4.7n,";4.7nF;;16V;;;;;","200 mil [THT, multilayer]",224.074,3024.59,180,Top,THT
+4.7K,"4.7k;;;;;0.25W;;;","THT",1295.88,1975.25,0,Top,THT
+4.7n,";4.7nF;;16V;;;;;","200 mil [THT, multilayer]",161.546,3472.63,-6.36109e-15,Top,THT
+Rel,";;;;;0.5W;;;","THT",823.227,3061.52,-90,Top,THT
+4.7n,";4.7nF;;16V;;;;;","200 mil [THT, multilayer]",157.041,3923.5,180,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",801.453,3624.34,180,Top,THT
+120k,"100k;;;;;0.25W;;;","THT",799.242,3721.54,0,Top,THT
+104,";100nF;;16V;;;;;","200 mil [THT, multilayer]",1327.18,4045.05,-6.36109e-15,Top,THT
+100uF,";0.1mF;;35V;;;;;","100 mil [THT, electrolytic]",1285.41,4204.12,180,Top,THT
