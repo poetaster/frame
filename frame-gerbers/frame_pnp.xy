@@ -2,7 +2,7 @@
 # eMail=
 #
 # Project=frame
-# Date=19:55:40
+# Date=17:56:58
 # CreatedBy=Fritzing 1.0.6.2025-10-07.1.0.5rc1-97-g04e5bb02
 #
 # Coordinates in mils, always center of component
@@ -10,6 +10,8 @@
 RefDes,Description,Package,X,Y,Rotation,Side,Mount
 Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
 U1,";;;;;;;;","DIP (Dual Inline) [THT]",809.82,918.027,180,Bottom,THT
+100n,";0.1µF;;35V;;;;;","100 mil [THT, tantalum]",676.417,2720.5,0,Bottom,THT
+100n,";0.1µF;;35V;;;;;","100 mil [THT, tantalum]",980.455,2705.39,0,Bottom,THT
 J3,";;;;;;;;","THT",566.376,4144.75,90,Bottom,THT
 Via2,";;;;;;;;","",883.738,1140.01,0,Top,MANUAL
 Via3,";;;;;;;;","",959.294,1308.9,0,Top,MANUAL
@@ -28,8 +30,6 @@ Out1,";;;;;;;;","",1266.68,3717.93,90,Top,MANUAL
 BAT46,";;;;;;;;","diode-1n4148",56.6911,1674.88,90,Top,SMT
 5||15,";;;;;;;;","switch-spdt_kit",1353.53,962.124,180,Top,SMT
 BAT46,";;;;;;;;","diode-1n4148",239.946,2559.05,0,Top,SMT
-BAT46,";;;;;;;;","diode-1n4148",781.053,2668.72,0,Top,SMT
-BAT46,";;;;;;;;","diode-1n4148",868.612,2747.72,0,Top,SMT
 BAT46,";;;;;;;;","diode-1n4148",492.876,3476.6,0,Top,SMT
 BAT46,";;;;;;;;","diode-1n4148",488.519,3921.48,0,Top,SMT
 4001,";;;;;;;;","diode-1n4148",1008.25,3934.56,0,Top,SMT
@@ -44,7 +44,7 @@ BAT46,";;;;;;;;","diode-1n4148",488.519,3921.48,0,Top,SMT
 2.2n,";2.2nF;;16V;;;;;","200 mil [THT, multilayer]",73.9956,901.493,-90,Top,THT
 10K,"10k;;;;;0.25W;;;","THT",448.012,595.582,90,Top,THT
 1M,"1M;;;;;0.25W;;;","THT",854.398,208.516,-90,Top,THT
-100nF,";100nF;;16V;;;;;","200 mil [THT, multilayer]",940.142,153.46,-90,Top,THT
+22n,";22nF;;16V;;;;;","200 mil [THT, multilayer]",940.142,153.46,-90,Top,THT
 10K,"10k;;;;;0.25W;;;","THT",526.752,639.682,-90,Top,THT
 1M,"1M;;;;;0.25W;;;","THT",790.142,430.627,180,Top,THT
 1M,"1M;;;;;0.25W;;;","THT",809.82,529.049,180,Top,THT
@@ -55,7 +55,7 @@ BAT46,";;;;;;;;","diode-1n4148",488.519,3921.48,0,Top,SMT
 2.2n,";2.2nF;;16V;;;;;","200 mil [THT, multilayer]",467.697,1154.52,-90,Top,THT
 120k,"100k;;;;;0.25W;;;","THT",218.921,1407.56,0,Top,THT
 103,";10nF;;16V;;;;;","200 mil [THT, multilayer]",827.764,860.916,-90,Top,THT
-33nF,";22nF;;16V;;;;;","200 mil [THT, multilayer]",1522.12,176.293,90,Top,THT
+33n,";22nF;;16V;;;;;","200 mil [THT, multilayer]",1522.12,176.293,90,Top,THT
 220k,"220k;;;;;0.25W;;;","THT",145.341,1645.17,90,Top,THT
 33nF,";22nF;;16V;;;;;","200 mil [THT, multilayer]",1411.01,391.26,-6.36109e-15,Top,THT
 120k,"100k;;;;;0.25W;;;","THT",1317.79,489.682,0,Top,THT
