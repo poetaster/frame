@@ -1,0 +1,99 @@
+Label,Part Type,mn,mpn,part number
+100n,Tantalum Capacitor,,,
+100n,Tantalum Capacitor,,,
+100nF,Film/Foil Capacitor,,,
+100nF,Film/Foil Capacitor,,,
+100nF,Film/Foil Capacitor,,,
+100uF,Electrolytic Capacitor,,,
+103,Ceramic Capacitor,,,
+104,Ceramic Capacitor,,,
+10K,10kΩ Resistor,,,
+10K,10kΩ Resistor,,,
+10K,10kΩ Resistor,,,
+10K,10kΩ Resistor,,,
+10K,10kΩ Resistor,,,
+10K,10kΩ Resistor,,,
+10nF,Ceramic Capacitor,,,Alt – 15n
+10nF,Ceramic Capacitor,,,15n
+10nF,Ceramic Capacitor,,,15n
+10nF,Ceramic Capacitor,,,
+120k,100kΩ Resistor,,,
+120k,100kΩ Resistor,,,
+120k,100kΩ Resistor,,,
+120k,100kΩ Resistor,,,
+120k,100kΩ Resistor,,,
+120k,100kΩ Resistor,,,
+120k,100kΩ Resistor,,,
+120k,100kΩ Resistor,,,
+120k,100kΩ Resistor,,,
+120k,100kΩ Resistor,,,
+120k,100kΩ Resistor,,,
+1M,1MΩ Resistor,,,
+1M,1MΩ Resistor,,,
+1M,1MΩ Resistor,,,
+1M,1MΩ Resistor,,,
+2.2n,Ceramic Capacitor,,,Alt – 3.3
+2.2n,Ceramic Capacitor,,,Alt – 3.3
+2.2n,Ceramic Capacitor,,,Alt – 3.3
+220k,220kΩ Resistor,,,
+22n,Ceramic Capacitor,,,
+22nF,Ceramic Capacitor,,,
+2N3904,NPN-Transistor,,,
+33n,Ceramic Capacitor,,,
+33n,Ceramic Capacitor,,,
+33n,Ceramic Capacitor,,,
+4.7K,4.7kΩ Resistor,,,
+4.7K,4.7kΩ Resistor,,,
+4.7n,Ceramic Capacitor,,,
+4.7n,Ceramic Capacitor,,,
+4.7n,Ceramic Capacitor,,,
+4.7n,Ceramic Capacitor,,,
+4.7n,Ceramic Capacitor,,,
+4.7n,Ceramic Capacitor,,,
+4.7n,Ceramic Capacitor,,,
+4.7n,Ceramic Capacitor,,,
+4001,Diode,,,Alt- 5187
+470nF,Film/Foil Capacitor,,,
+47K,47kΩ Resistor,,,
+5||13,SPST Switch,,,
+5||14,SPST Switch,,,
+5||15,SPST Switch,,,
+5||16,SPST Switch,,,
+][1,PJ-301M,,,PJ-301M
+][2,PJ-301M,,,PJ-301M
+][3,PJ-301M,,,PJ-301M
+][4,PJ-301M,,,PJ-301M
+Att,Rotary Potentiometer (Small),,,
+BAT46,Diode,,,Alt 4148
+BAT46,Diode,,,Alt 4148
+BAT46,Diode,,,Alt 4148
+BAT46,Diode,,,Alt 4148
+J3,Generic shrouded header - 16 pins,,,
+J4,Generic female header - 1 pins,,,
+Mix,PJ-301M,,,PJ-301M
+Out1,PJ-301M,,,PJ-301M
+OUT2,PJ-301M,,,PJ-301M
+Out3,PJ-301M,,,PJ-301M
+OUT4,PJ-301M,,,PJ-301M
+Rel,Rotary Potentiometer (Small),,,
+U1,Quad Norton Op Amp,,,LM3900
+,,,,
+Amount,Part Type,mn,mpn,part number
+11,100kΩ Resistor,,,
+6,10kΩ Resistor,,,
+4,1MΩ Resistor,,,
+1,220kΩ Resistor,,,
+2,4.7kΩ Resistor,,,
+1,47kΩ Resistor,,,
+22,Ceramic Capacitor,,,
+5,Diode,,,
+1,Electrolytic Capacitor,,,
+4,Film/Foil Capacitor,,,
+1,Generic female header - 1 pins,,,
+1,Generic shrouded header - 16 pins,,,
+1,NPN-Transistor,,,
+9,PJ-301M,,,PJ-301M
+1,Quad Norton Op Amp,,,LM3900
+2,Rotary Potentiometer (Small),,,
+4,SPST Switch,,,
+2,Tantalum Capacitor,,,
